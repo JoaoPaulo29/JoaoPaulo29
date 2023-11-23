@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulo29&show_icons=true&theme=radical)
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPaulo29&hide_progress=true)
 
 ## Core Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPaulo29&repo=Back-end&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
