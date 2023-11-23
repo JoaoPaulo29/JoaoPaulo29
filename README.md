@@ -23,5 +23,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPaulo29&hide_progress=true&theme=radical#gh-dark-mode-only)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoaoPaulo29)](https://github.com/anuraghazra/github-readme-stats)
+ 
