@@ -15,8 +15,11 @@
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulo29&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghaz/github-readme-stats)
+
+
 ## Core Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BernardoP7&repo=fullstack-challenge&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPaulo29&repo=Back-end&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## top languages
