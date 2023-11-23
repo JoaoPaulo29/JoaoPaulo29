@@ -23,4 +23,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPaulo29&hide_progress=true&theme=radical#gh-dark-mode-only)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
+
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JoaoPaulo29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
