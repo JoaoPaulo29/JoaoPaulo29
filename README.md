@@ -15,13 +15,13 @@
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
+# 📊 GitHub Stats:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulo29&show_icons=true&theme=radical)  
  
-
-
-## top languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPaulo29&hide_progress=true&theme=radical#gh-dark-mode-only)
+ <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Antoniopedromuteka&theme=dark&hide_border=false)<br/>
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  ## 🏆 GitHub Trophies
