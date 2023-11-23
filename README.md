@@ -17,4 +17,8 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
   
+## Top linguagens
+## top languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoP7&hide_progress=true&theme=radical#gh-dark-mode-only)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
