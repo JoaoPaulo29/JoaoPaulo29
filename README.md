@@ -17,10 +17,10 @@
 
 # 📊 GitHub Stats:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulo29&show_icons=true&theme=radical)  
- 
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoPaulo29&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPaulo29&hide_progress=true&theme=radical#gh-dark-mode-only)
- <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Antoniopedromuteka&theme=dark&hide_border=false)<br/>
+
+
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
