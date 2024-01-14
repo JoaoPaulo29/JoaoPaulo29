@@ -25,7 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPaulo29&hide_progress=true&theme=radical#gh-dark-mode-only)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JoaoPaulo29&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=JoaoPaulo29&limit=5&theme=dark&combine_all_yearly_contributions=false)
 
 
  
